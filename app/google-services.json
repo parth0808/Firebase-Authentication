@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "673476882156",
+    "firebase_url": "https://fir-eab24.firebaseio.com",
+    "project_id": "fir-eab24",
+    "storage_bucket": "fir-eab24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673476882156:android:e62fd9754bc3f42b",
+        "android_client_info": {
+          "package_name": "com.parth.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673476882156-kns7s2j35qolmfk0kf5clmf6ocqcrdin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parth.firebase",
+            "certificate_hash": "9a9cab50defcd6f4ba4bf5ea3a504c5f5cd8f810"
+          }
+        },
+        {
+          "client_id": "673476882156-d2bdavgphv7i08d23jg6s7mtv7a2eegu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVdCzUDX4j1o_juGhN_kRkB2Hg2oxzjzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673476882156-d2bdavgphv7i08d23jg6s7mtv7a2eegu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
